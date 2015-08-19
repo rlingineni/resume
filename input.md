@@ -31,7 +31,7 @@ University of Texas at Dallas(June 2015 - Present)
 * Created scripts to maintain C# soutions and developed mobile apps
 	
 
-#####University of Texas at Dallas(June 2015 - Present)
+#####University of North Texas(June 2015 - Present)
 
 * Performed independent research on the contact patch of a tire 
 * Worked with developing better filament for FDM printers
