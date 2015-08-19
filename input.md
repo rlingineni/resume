@@ -1,13 +1,17 @@
+<link rel="stylesheet" type="text/css" href="styling.css">
+
 # Raviteja Lingineni
-## C# Developer 
+### C# Developer 
 		
-> [rlingineni@live.com](rlingineni@live.com)
-> [rlingineni.me](rlingineni.me)
-> (972) 888-7777
+[rlingineni@live.com](rlingineni@live.com) 
+
+[www.rlingineni.me](rlingineni.me)
+
+ (972) 757-5423
 
 ------
 
-### Education
+## Education
 
 <p class="titles">
 University of Texas at Dallas(June 2015 - Present)
@@ -20,16 +24,14 @@ University of Texas at Dallas(June 2015 - Present)
 
 ### EXPERIENCE
 
-<p class="titles">
-University of Texas at Dallas(June 2015 - Present)
-<p/> 
+
+######University of Texas at Dallas(June 2015 - Present)
 
 * Began working with Xamarin University team to update existing curriculum
 * Created scripts to maintain C# soutions and developed mobile apps
 	
-<p class="titles">
-University of Texas at Dallas(June 2015 - Present)
-<p/> 
+
+#####University of Texas at Dallas(June 2015 - Present)
 
 * Performed independent research on the contact patch of a tire 
 * Worked with developing better filament for FDM printers
@@ -37,15 +39,28 @@ University of Texas at Dallas(June 2015 - Present)
 
 ------
 
-### Projects
+## Projects
 
 <p class="titles">
-University of Texas at Dallas(June 2015 - Present)
+Seated
 <p/> 
 
-* Performed independent research on the contact patch of a tire 
-* Worked with developing better filament for FDM printers
+* Cool Project to help people
+* Made with Love
 
+<p class="titles">
+Seated
+<p/> 
+
+* Cool Project to help people
+* Made with Love
+
+<p class="titles">
+Seated
+<p/> 
+
+* Cool Project to help people
+* Made with Love
 
 ### Skills 
 
