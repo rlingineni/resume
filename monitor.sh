@@ -1,3 +1,4 @@
+
               #####################################
               #      Raviteja Lingineni	          #			             
               #	          08/2015  	          #
@@ -10,10 +11,7 @@
 pushd `dirname $0` > /dev/null
 SCRIPTPATH=`pwd -P`
 popd > /dev/null
-OUTPUT="$SCRIPTPATH/resume.pdf"
+OUTPUT="$SCRIPTPATH/run.sh"
 INPUT="$SCRIPTPATH/resume.html"
-wkhtmltopdf $INPUT $OUTPUT
 
-git add .
-git commit -m "updated resume"
-git push
+fswatch -o ~$INPUT | xargs -n1 ~$OUTPUT
