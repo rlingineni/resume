@@ -16,4 +16,4 @@ wkhtmltopdf $INPUT $OUTPUT
 
 git add .
 git commit -m "updated resume"
-git push
+git push --set-upstream origin gh-pages
