@@ -21,7 +21,11 @@ I grew tired of constantly compiling my laTex resume. It's a language I don't us
    
   7. That's it, you should have a pdf version of your resume. You can modify the script file to push to git after your changes with the following lines
       ```git add .```
+<<<<<<< HEAD
       ```git commit -m "your commit message```
+=======
+      ```git commit -m "your commit message"```
+>>>>>>> 13bb8fc5bce5ad77c3d18616a517cb3c4a1a3af7
       ```git push```
  
 
