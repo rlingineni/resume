@@ -13,11 +13,15 @@ I grew tired of constantly compiling my laTex resume. It's a language I don't us
   
   5. get `run.sh` and put it in your directory with `resume.html`
   
-  5. Using Terminal or Cygwin:
+  6. Using Terminal or Cygwin:
   
     ```cd to/whatever/directory/with/your/resume.html```
     
    ``` sh run.sh```
    
-   6.) That's it, you should have a pdf version of your resume.
+  7. That's it, you should have a pdf version of your resume. You can modify the script file to push to git after your changes with the following lines
+      ```git add .```
+      ```git commit -m "your commit message```
+      ```git push```
+ 
 
