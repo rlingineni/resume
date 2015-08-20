@@ -3,26 +3,21 @@
 # Raviteja Lingineni
 ### C# Developer 
 		
-[rlingineni@live.com](rlingineni@live.com) 
-
-[www.rlingineni.me](rlingineni.me)
-
- (972) 757-5423
+[rlingineni@live.com](rlingineni@live.com)  [www.rlingineni.me](rlingineni.me) (972) 757-5423
 
 ------
 
 ## Education
 
-<p class="titles">
-University of Texas at Dallas(June 2015 - Present)
-<p/> 
+
+######University of Texas at Dallas(June 2015 - Present)
 
 * Began working with Xamarin University team to update existing curriculum
-* Created scripts to maintain C# soutions and developed mobile apps
+
 
 -------
 
-### EXPERIENCE
+## Experience
 
 
 ######University of Texas at Dallas(June 2015 - Present)
@@ -31,7 +26,7 @@ University of Texas at Dallas(June 2015 - Present)
 * Created scripts to maintain C# soutions and developed mobile apps
 	
 
-#####University of North Texas(June 2015 - Present)
+######University of North Texas(June 2015 - Present)
 
 * Performed independent research on the contact patch of a tire 
 * Worked with developing better filament for FDM printers
@@ -41,33 +36,35 @@ University of Texas at Dallas(June 2015 - Present)
 
 ## Projects
 
-<p class="titles">
-Seated
-<p/> 
+######UTD Coursebook
+* Cool Project to help people
+* Made with Love
+
+######Pneuma
+* Cool Project to help people
+* Made with Love
+
+######Seated
+* Cool Project to help people
+* Made with Love
+
+######QuickLight
 
 * Cool Project to help people
 * Made with Love
 
-<p class="titles">
-Seated
-<p/> 
+------
 
-* Cool Project to help people
-* Made with Love
+## Skills
+<pre> 
+<b>Computer Languages: </b> C#, XAML, HTML, CSS, JavaScript, 
 
-<p class="titles">
-Seated
-<p/> 
+<b>Protocols & APIs:** </b> WPF, WP8, Leap Motion, Arduino IDE, Spark.IO, Intel Edison
 
-* Cool Project to help people
-* Made with Love
+<b>Databases:</b> Azure, SQL Server, BizTalk Server
 
-### Skills 
-
-<pre>
- <b>Languages:</b> C#,HTML,Javascript,CSS
- <b>Protocols:</b> C#,HTML,Javascript,CSS
+<b>Software Tools:</b> Microsoft Visual Studio, Adobe Photoshop, 
+Adobe Muse, Microsoft Office, Autodesk Inventor
 </pre>
-
 
 
